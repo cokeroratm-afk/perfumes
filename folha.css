@@ -1,0 +1,14 @@
+.erros {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+html{
+    background-color: #DEB887;
+    background-image: url("AmaroFragrancias.PNG");
+    /*font-family: serif;
+    opacity: 0.3;*/
+}
+img{
+    opacity: 0.3;
+}
